@@ -1,0 +1,4 @@
+helpers/Connnection.class
+helpers/DataGenerator.class
+helpers/DBHandler.class
+conduitApp/ConduitTest.class
